@@ -4,6 +4,11 @@
 // Import Modules
 @import '../_modules/link/link';
 @import './_chart.scss';
+@import 'node_modules/leaflet/dist/leaflet';
+@import 'node_modules/leaflet-minimap/src/Control.MiniMap';
+@import './_map.scss';
+
+
 
 /*section {
   width: 100%;
